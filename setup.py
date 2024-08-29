@@ -8,9 +8,9 @@ setup(
     name = "pywhitakers",
     version = "0.0.1",
     author = "Forrest Zeng",
-    author_email = "forrestzengmusic@gmail..com",
+    author_email = "forrestzengmusic@gmail.com",
     description = ("An API package to latin-words.com that returns the most likely Latin translation of a word."),
-    license = "MIT",
+    license = "Apache 2.0",
     keywords = "Latin translation whitakers",
     long_description=read('README.md'),
 )

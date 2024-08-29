@@ -5,6 +5,9 @@ description = ""
 authors = ["Forrest <ForrestZengMusic@gmail.com>"]
 license = "Apache 2.0"
 readme = "README.md"
+packages = [
+    { include = "pywhitakers" }
+]
 
 [tool.poetry.dependencies]
 python = "^3.9"
