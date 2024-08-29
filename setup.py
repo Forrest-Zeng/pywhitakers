@@ -13,5 +13,8 @@ setup(
     license = "Apache 2.0",
     keywords = "Latin translation whitakers",
     long_description=read('README.md'),
-    # install_requires=read('requirements.txt').splitlines()
+    install_requires=[
+        "<requests>",
+        "<unidecode>"
+    ]
 )
