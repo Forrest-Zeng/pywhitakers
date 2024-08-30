@@ -14,8 +14,5 @@ setup(
     keywords = "Latin translation whitakers",
     long_description=read('README.md'),
     packages=find_packages(),
-    install_requires=[
-        "requests",
-        "unidecode"
-    ]
+    install_requires=read("requirements.txt").splitlines()
 )
