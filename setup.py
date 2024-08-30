@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name = "pywhitakers",
-    version = "0.0.10",
+    version = "0.0.11",
     author = "Forrest Zeng",
     author_email = "forrestzengmusic@gmail.com",
     description = ("An API package to latin-words.com that returns the most likely Latin translation of a word."),
