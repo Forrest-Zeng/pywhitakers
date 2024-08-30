@@ -1,8 +1,8 @@
 [project]
 name = "pywhitakers"
-version = "0.0.1"
+version = "0.0.13"
 description = ""
-authors = ["Forrest <ForrestZengMusic@gmail.com>"]
+authors = [{name = "Forrest Zeng", email = "ForrestZengMusic@gmail.com"}]
 license = {file = "LICENSE.txt"}
 readme = "README.md"
 packages = [
